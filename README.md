@@ -1,4 +1,7 @@
 # Fitting Poisson  distribution
+## Submitted By : Sri Harish B
+## Department : Btech Information Technology
+## Reg Number : 212223220110
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
